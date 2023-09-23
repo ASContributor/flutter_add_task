@@ -15,10 +15,10 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Screenshot_1695451916](https://github.com/ASContributor/flutter_add_task/assets/43782542/3c1e1adc-591c-4ee7-bd5d-eee2911571a1 | width=100)
+![Screenshot_1695451916](https://github.com/ASContributor/flutter_add_task/assets/43782542/3c1e1adc-591c-4ee7-bd5d-eee2911571a1.png | width=100)
 
 
-![Screenshot_1695451923](https://github.com/ASContributor/flutter_add_task/assets/43782542/1861970b-9c71-4226-a855-08ee0b64ea0b)
+![Screenshot_1695451923](https://github.com/ASContributor/flutter_add_task/assets/43782542/1861970b-9c71-4226-a855-08ee0b64ea0b.png=200X200)
 
 
 
